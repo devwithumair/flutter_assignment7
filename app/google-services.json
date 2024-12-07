@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207219878457",
+    "project_id": "signin-example-da972",
+    "storage_bucket": "signin-example-da972.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207219878457:android:a717407d4684ede6a1bbe8",
+        "android_client_info": {
+          "package_name": "com.example.seventhassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSiBFDQhRRvYSIJLKyZpxu8SkkuNw5vj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
